@@ -21,3 +21,26 @@ es1_expense_tracker/.env.production.local
 es1_expense_tracker/npm-debug.log*
 es1_expense_tracker/yarn-debug.log*
 es1_expense_tracker/yarn-error.log*
+
+
+# dependencies
+es2_to_do_list/node_modules
+es2_to_do_list/.pnp
+es2_to_do_list/.pnp.js
+
+# testing
+es2_to_do_list/coverage
+
+# production
+es2_to_do_list/build
+
+# misc
+es2_to_do_list/.DS_Store
+es2_to_do_list/.env.local
+es2_to_do_list/.env.development.local
+es2_to_do_list/.env.test.local
+es2_to_do_list/.env.production.local
+
+es2_to_do_list/npm-debug.log*
+es2_to_do_list/yarn-debug.log*
+es2_to_do_list/yarn-error.log*
