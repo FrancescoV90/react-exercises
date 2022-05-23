@@ -1,23 +1,23 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-es1/node_modules
-es1/.pnp
-es1/.pnp.js
+es1_expense_tracker/node_modules
+es1_expense_tracker/.pnp
+es1_expense_tracker/.pnp.js
 
 # testing
-es1/coverage
+es1_expense_tracker/coverage
 
 # production
-es1/build
+es1_expense_tracker/build
 
 # misc
-es1/.DS_Store
-es1/.env.local
-es1/.env.development.local
-es1/.env.test.local
-es1/.env.production.local
+es1_expense_tracker/.DS_Store
+es1_expense_tracker/.env.local
+es1_expense_tracker/.env.development.local
+es1_expense_tracker/.env.test.local
+es1_expense_tracker/.env.production.local
 
-es1/npm-debug.log*
-es1/yarn-debug.log*
-es1/yarn-error.log*
+es1_expense_tracker/npm-debug.log*
+es1_expense_tracker/yarn-debug.log*
+es1_expense_tracker/yarn-error.log*
