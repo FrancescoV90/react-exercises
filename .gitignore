@@ -44,3 +44,4 @@ es2_to_do_list/.env.production.local
 es2_to_do_list/npm-debug.log*
 es2_to_do_list/yarn-debug.log*
 es2_to_do_list/yarn-error.log*
+es2_to_do_list/.eslintcache
